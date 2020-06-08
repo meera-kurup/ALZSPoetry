@@ -10,6 +10,6 @@ The app was coded in Swift, an iOS programming language, and integrated AWS Clou
 
 For more information about the app, please visit the website:  http://meerakurup.net/ALZSPoetry/index.html
 
-Coded by Meera Kurup from November 2017 to April 2018)
+Coded by Meera Kurup from November 2017 to April 2018
 
 (Certain files in the repository are titled ALZ Poetry as that was the previous name of the app, but due to copyright reasons, the app name was changed to ALZSPoetry, although the internal file names might not reflect the change.) 
